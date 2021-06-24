@@ -5,7 +5,7 @@ export default function Intro() {
         Blog.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Always look A statically generated blog example using Next.js and DatoCMS.
+        Gratitude and attitude are not challenges; they are choices - Robert Braathe
       </h4>
     </section>
   )
